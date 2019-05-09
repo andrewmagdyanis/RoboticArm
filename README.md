@@ -1,0 +1,2 @@
+# RoboticArm
+This is a Robotics project, we manufacture a 3 degree of freedom (revolute) robotic arm controlled in Forward kinamatics fashion using mobile app acts as joy stick and arduino as a controller and it is simulated on V-REP. The motion msg is sent via bluetooth module from mob app to arduino and it is used to drive the robotic arm joint and also to send joint angles values to V-REP via usb cable on Serial commm that make the simulation move with the real robotic arm  
